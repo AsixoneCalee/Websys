@@ -1,0 +1,16 @@
+{
+ "id": 1,
+ "name": "John Doe",
+ "phone":" 09282860718",
+ "adress":{
+    "street": "123 Asawa ni Marie",
+    "city": "ChinaTown",
+    "state": "CA",
+    "zip":"123456"
+ },
+ "company": {
+    "name": "Tech",
+    "phone":" Software Engineer",
+    "department": "Developement"
+ }
+}
